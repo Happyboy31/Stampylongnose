@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Funny Movies</title>
+<style>
+p {
+	 color: purple;
+
+}
+</style>
+</head>
+<body bgcolor="Green" text ="Blue">
+<h1 color ="red">See super funny movies here!</h1>
+<p>No.1</p>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/6JxuFnHFu1Q" frameborder="0" allowfullscreen></iframe>
+<p>No.2</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4lUMqwe8Elc" frameborder="0" allowfullscreen></iframe>
+<p>No.3</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tntOCGkgt98" frameborder="0" allowfullscreen></iframe>
+<p>No.4</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZWlHd5KOMQ" frameborder="0" allowfullscreen></iframe>
+<p>No.5</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZWglWyxFBM" frameborder="0" allowfullscreen></iframe>
+<p>Thanks for looking up this website and Please be sure to check out my other website:Happyboy31.github.io/WhyBowserKidnappsPeach and Look out for new websites!</p>
+<p>Bye!!!!</p>
+<p>This was made by<em>Ross Daly</em></p>
+</body>
+
